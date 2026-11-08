@@ -1,0 +1,231 @@
+{
+  "date": "2026-10-24",
+  "pdf_pages": 13,
+  "videos_full_decode": "passed",
+  "geometry_indices": "passed",
+  "interactive_checks": {
+    "baseline": {
+      "area": "28.8",
+      "meshes": 6
+    },
+    "resized": {
+      "span": 7.2,
+      "area": "34.6"
+    },
+    "status": "passed"
+  },
+  "files": [
+    {
+      "name": "01_榫生听雨亭_建筑方案与创作说明.pdf",
+      "bytes": 11987989
+    },
+    {
+      "name": "02_昆仑谣主题_榫生听雨亭.mp4",
+      "bytes": 49115077
+    },
+    {
+      "name": "03_X开放主题_榫生数字共创台.mp4",
+      "bytes": 53927865
+    },
+    {
+      "name": "04_3DShow双主题创作说明_可编辑.txt",
+      "bytes": 6981
+    },
+    {
+      "name": "assets/content.js",
+      "bytes": 6962
+    },
+    {
+      "name": "assets/scene.js",
+      "bytes": 18437
+    },
+    {
+      "name": "assets/THREE-LICENSE.txt",
+      "bytes": 1081
+    },
+    {
+      "name": "assets/three.min.js",
+      "bytes": 669884
+    },
+    {
+      "name": "assets/主视觉_AI概念图.png",
+      "bytes": 2861225
+    },
+    {
+      "name": "assets/互动界面.png",
+      "bytes": 527988
+    },
+    {
+      "name": "assets/作品封面.png",
+      "bytes": 5708649
+    },
+    {
+      "name": "assets/模型视图/exploded.png",
+      "bytes": 844880
+    },
+    {
+      "name": "assets/模型视图/frame.png",
+      "bytes": 1059428
+    },
+    {
+      "name": "assets/模型视图/front.png",
+      "bytes": 590358
+    },
+    {
+      "name": "assets/模型视图/joint.png",
+      "bytes": 719596
+    },
+    {
+      "name": "assets/模型视图/open_00.png",
+      "bytes": 565695
+    },
+    {
+      "name": "assets/模型视图/open_01.png",
+      "bytes": 560511
+    },
+    {
+      "name": "assets/模型视图/open_02.png",
+      "bytes": 563408
+    },
+    {
+      "name": "assets/模型视图/open_03.png",
+      "bytes": 585854
+    },
+    {
+      "name": "assets/模型视图/open_04.png",
+      "bytes": 469826
+    },
+    {
+      "name": "assets/模型视图/open_05.png",
+      "bytes": 554816
+    },
+    {
+      "name": "assets/模型视图/open_06.png",
+      "bytes": 540504
+    },
+    {
+      "name": "assets/模型视图/open_07.png",
+      "bytes": 554038
+    },
+    {
+      "name": "assets/模型视图/open_08.png",
+      "bytes": 722493
+    },
+    {
+      "name": "assets/模型视图/open_09.png",
+      "bytes": 4453696
+    },
+    {
+      "name": "assets/模型视图/open_10.png",
+      "bytes": 513252
+    },
+    {
+      "name": "assets/模型视图/open_11.png",
+      "bytes": 536541
+    },
+    {
+      "name": "assets/模型视图/orbit.png",
+      "bytes": 869769
+    },
+    {
+      "name": "assets/模型视图/plan.png",
+      "bytes": 1188375
+    },
+    {
+      "name": "assets/模型视图/side.png",
+      "bytes": 498002
+    },
+    {
+      "name": "assets/模型视图/theme_00.png",
+      "bytes": 4365103
+    },
+    {
+      "name": "assets/模型视图/theme_01.png",
+      "bytes": 1813577
+    },
+    {
+      "name": "assets/模型视图/theme_02.png",
+      "bytes": 460128
+    },
+    {
+      "name": "assets/模型视图/theme_03.png",
+      "bytes": 465688
+    },
+    {
+      "name": "assets/模型视图/theme_04.png",
+      "bytes": 474822
+    },
+    {
+      "name": "assets/模型视图/theme_05.png",
+      "bytes": 570327
+    },
+    {
+      "name": "assets/模型视图/theme_06.png",
+      "bytes": 502725
+    },
+    {
+      "name": "assets/模型视图/theme_07.png",
+      "bytes": 545889
+    },
+    {
+      "name": "assets/模型视图/theme_08.png",
+      "bytes": 716750
+    },
+    {
+      "name": "assets/模型视图/theme_09.png",
+      "bytes": 565405
+    },
+    {
+      "name": "assets/模型视图/theme_10.png",
+      "bytes": 543946
+    },
+    {
+      "name": "assets/模型视图/theme_11.png",
+      "bytes": 4440237
+    },
+    {
+      "name": "assets/示例方案卡.png",
+      "bytes": 750516
+    },
+    {
+      "name": "X开放主题_字幕.srt",
+      "bytes": 1972
+    },
+    {
+      "name": "作品.html",
+      "bytes": 8502
+    },
+    {
+      "name": "先读我_打开与参赛.txt",
+      "bytes": 4070
+    },
+    {
+      "name": "听雨亭_建筑概念模型.obj",
+      "bytes": 305807
+    },
+    {
+      "name": "昆仑谣主题_字幕.srt",
+      "bytes": 1855
+    },
+    {
+      "name": "源码/主视觉生成提示词.txt",
+      "bytes": 1841
+    },
+    {
+      "name": "源码/交互检查记录.json",
+      "bytes": 137
+    },
+    {
+      "name": "源码/双视频脚本.json",
+      "bytes": 8300
+    },
+    {
+      "name": "源码/源代码与生成记录.txt",
+      "bytes": 2064
+    },
+    {
+      "name": "源码/视频规格核验.json",
+      "bytes": 1003
+    }
+  ]
+}

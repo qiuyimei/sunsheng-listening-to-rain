@@ -1,0 +1,20 @@
+[
+  {
+    "file": "02_昆仑谣主题_榫生听雨亭.mp4",
+    "bytes": 49115077,
+    "streams": [
+      "Duration: 00:02:12.00, start: 0.000000, bitrate: 2976 kb/s",
+      "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt470bg/unknown/unknown, progressive), 2560x1440 [SAR 1:1 DAR 16:9], 2777 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+      "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 193 kb/s (default)"
+    ]
+  },
+  {
+    "file": "03_X开放主题_榫生数字共创台.mp4",
+    "bytes": 53927865,
+    "streams": [
+      "Duration: 00:02:12.00, start: 0.000000, bitrate: 3268 kb/s",
+      "Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuvj420p(pc, bt470bg/unknown/unknown, progressive), 2560x1440 [SAR 1:1 DAR 16:9], 3067 kb/s, 24 fps, 24 tbr, 12288 tbn (default)",
+      "Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 194 kb/s (default)"
+    ]
+  }
+]

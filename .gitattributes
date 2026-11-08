@@ -1,0 +1,10 @@
+* text=auto
+*.html text eol=lf
+*.js text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.txt text eol=lf
+*.srt text eol=lf
+*.obj text eol=lf
+*.png binary
+*.pdf binary

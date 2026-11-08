@@ -1,0 +1,11 @@
+{
+  "baseline": {
+    "area": "28.8",
+    "meshes": 6
+  },
+  "resized": {
+    "span": 7.2,
+    "area": "34.6"
+  },
+  "status": "passed"
+}

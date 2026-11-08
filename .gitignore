@@ -1,0 +1,20 @@
+# Local tools, credentials and temporary files
+.DS_Store
+Thumbs.db
+desktop.ini
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+node_modules/
+.venv/
+__pycache__/
+.cache/
+work/
+frames_*/
+
+# Large rendered deliverables are uploaded as release attachments.
+*.mp4
+*.wav
+*.zip
