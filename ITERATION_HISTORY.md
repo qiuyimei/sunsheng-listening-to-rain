@@ -13,7 +13,7 @@
 
 | 时间（原记录） | 改动说明 | 源码 | 下载 |
 |---|---|---|---|
-| 2026-11-08 17:13:15 | Add Sunsheng Listening to Rain architecture competition project | [5830c01326](https://github.com/qiuyimei/sunsheng-listening-to-rain/tree/5830c013266f7c72b35a62ad28053520a7ac5d96) | [ZIP](https://github.com/qiuyimei/sunsheng-listening-to-rain/archive/5830c013266f7c72b35a62ad28053520a7ac5d96.zip) |
+| 2026-11-08 17:13:15 | 变更 57 个文件（新增 57）；涉及 `assets/content.js`、`assets/scene.js`、`assets/three.min.js`<br>原始记录：Add Sunsheng Listening to Rain architecture competition project | [5830c01326](https://github.com/qiuyimei/sunsheng-listening-to-rain/tree/5830c013266f7c72b35a62ad28053520a7ac5d96) | [ZIP](https://github.com/qiuyimei/sunsheng-listening-to-rain/archive/5830c013266f7c72b35a62ad28053520a7ac5d96.zip) |
 
 ## 核验
 
