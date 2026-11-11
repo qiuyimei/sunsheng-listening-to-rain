@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="360" viewBox="0 0 1440 360" role="img" aria-label="榫生听雨：榫卯主题AIGC与文创作品">
+<title>榫生听雨</title><desc>榫卯主题AIGC与文创作品</desc>
+<defs><linearGradient id="background" x2="1" y2=".55"><stop stop-color="#173b35"/><stop offset="1" stop-color="#2b5144"/></linearGradient></defs>
+<rect width="1440" height="360" rx="24" fill="url(#background)"/>
+<g stroke="#d8c293" stroke-width=".6" opacity=".1"><path d="M840 0V360"/><path d="M900 0V360"/><path d="M960 0V360"/><path d="M1020 0V360"/><path d="M1080 0V360"/><path d="M1140 0V360"/><path d="M1200 0V360"/><path d="M1260 0V360"/><path d="M1320 0V360"/><path d="M1380 0V360"/><path d="M1440 0V360"/><path d="M840 0H1440"/><path d="M840 60H1440"/><path d="M840 120H1440"/><path d="M840 180H1440"/><path d="M840 240H1440"/><path d="M840 300H1440"/><path d="M840 360H1440"/></g>
+<g font-family="Microsoft YaHei, PingFang SC, Noto Sans CJK SC, sans-serif">
+<rect x="65" y="54" width="5" height="22" rx="2" fill="#d8c293"/>
+<text x="87" y="73" fill="#d8c293" font-size="19" letter-spacing="4">正式项目 · 作品档案</text>
+<text x="65" y="168" fill="#f6f0dc" font-size="74" font-weight="600" letter-spacing="4">榫生听雨</text>
+<text x="69" y="217" fill="#f6f0dc" opacity=".8" font-size="23">榫卯主题AIGC与文创作品</text>
+<path d="M69 260H785" stroke="#d8c293" opacity=".3"/>
+<text x="69" y="307" fill="#d8c293" font-size="19" letter-spacing="2">榫卯结构　 /　 方案互动　 /　 模型视图</text>
+<text x="1348" y="324" text-anchor="end" fill="#d8c293" opacity=".6" font-size="14">14</text>
+</g><g transform="translate(1135 178)" fill="none" stroke="#d8c293">
+    <ellipse rx="170" ry="106" transform="rotate(-28)" stroke-width="1.4" opacity=".55"/>
+    <ellipse rx="170" ry="106" transform="rotate(30)" stroke-width="1" opacity=".3"/>
+    <circle r="102" stroke-width="1.5" opacity=".65"/><circle r="66" stroke-width="1" opacity=".4"/>
+    <path d="M-71 18L0-32 71 18 0 66Z M-71 18V-34L0-82 71-34V18 M0-32V-82 M0 66V13" stroke-width="2"/>
+    <circle cx="-149" cy="40" r="7" fill="#d8c293"/><circle cx="119" cy="-100" r="4" fill="#d8c293"/>
+    <path d="M-201-78h28m-14-14v28M163 91h22m-11-11v22" stroke-width="1.5"/>
+    </g></svg>

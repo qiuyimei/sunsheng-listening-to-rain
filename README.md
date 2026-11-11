@@ -1,3 +1,29 @@
+<!-- project-showcase:start -->
+<p align="center"><img src="docs/showcase/cover.svg" width="100%" alt="榫生听雨 · 榫卯主题AIGC与文创作品" /></p>
+<p align="center"><b>榫卯结构 · 方案互动 · 模型视图</b></p>
+<p align="center"><a href="#作品画面">看作品</a>　 ·　 <a href="ITERATION_HISTORY.md">历次迭代</a>　 ·　 <a href="https://github.com/qiuyimei/sunsheng-listening-to-rain/archive/refs/heads/main.zip">下载源码</a>　 ·　 <a href="https://github.com/qiuyimei/codex-old-deliverables-20261031#作品图录">全部作品</a></p>
+
+**榫生听雨** · 榫卯主题AIGC与文创作品。
+
+## 作品画面
+
+<table><tr><td width="50%" align="center" valign="top"><a href="docs/showcase/preview-01.png"><img src="docs/showcase/preview-01.png" width="420" alt="榫卯互动界面" /></a><br/><sub>榫卯互动界面</sub></td><td width="50%" align="center" valign="top"><a href="docs/showcase/preview-02.png"><img src="docs/showcase/preview-02.png" width="420" alt="模型平面视图" /></a><br/><sub>模型平面视图</sub></td></tr></table>
+
+## 从这里开始
+
+| 想做什么 | 入口 |
+| --- | --- |
+| 查看每次迭代、日期与改动 | [历史版本目录](ITERATION_HISTORY.md) |
+| 下载当前完整源码 | [当前版本 ZIP](https://github.com/qiuyimei/sunsheng-listening-to-rain/archive/refs/heads/main.zip) |
+| 下载发布包、查看已有附件 | [Releases 发布页](https://github.com/qiuyimei/sunsheng-listening-to-rain/releases) |
+| 浏览当前工程 | [仓库文件](.) |
+
+<!-- project-showcase:end -->
+
+---
+
+## 使用与项目说明
+
 # 榫生 · 听雨亭
 
 **传统木构文旅驿站与数字共创体验**
@@ -73,3 +99,4 @@ AI辅助文本、代码和概念图创作；主视觉由内置ImageGen生成，[
 ## 第三方依赖与权利
 
 Three.js保留其[MIT许可证](assets/THREE-LICENSE.txt)。本次上传不为项目自创代码、建筑方案、文本或生成图片另行授予开源许可证；仓库可见性本身不代表自由再使用授权。
+
