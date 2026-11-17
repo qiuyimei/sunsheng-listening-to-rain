@@ -1,7 +1,7 @@
 <!-- project-showcase:start -->
 <p align="center"><img src="docs/showcase/cover.svg" width="100%" alt="榫生听雨 · 榫卯主题AIGC与文创作品" /></p>
 <p align="center"><b>榫卯结构 · 方案互动 · 模型视图</b></p>
-<p align="center"><a href="#作品画面">看作品</a>　 ·　 <a href="ITERATION_HISTORY.md">历次迭代</a>　 ·　 <a href="https://github.com/qiuyimei/sunsheng-listening-to-rain/archive/refs/heads/main.zip">下载源码</a>　 ·　 <a href="https://github.com/qiuyimei/codex-old-deliverables-20261031#作品图录">全部作品</a></p>
+<p align="center"><a href="#作品画面">看作品</a>　 ·　 <a href="ITERATION_HISTORY.md">历次迭代</a>　 ·　 <a href="https://github.com/qiuyimei/sunsheng-listening-to-rain/archive/refs/heads/main.zip">下载源码</a>　 ·　 <a href="https://github.com/qiuyimei/project-collection#作品图录">全部作品</a></p>
 
 **榫生听雨** · 榫卯主题AIGC与文创作品。
 
